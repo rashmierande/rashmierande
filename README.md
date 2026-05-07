@@ -22,7 +22,7 @@ Early-stage AI/ML startups often struggle with: "How do I know if my model is go
 
 `Python` · `LLM-as-Judge` · `Evaluation Frameworks`
 
-### [LLM Evaluation with RAGAS](link-to-repo)
+### [LLM Evaluation with RAGAS](https://github.com/rashmierande/rag-quality-eval-ragas-ci)
 RAG systems can hallucinate, retrieve wrong context, or give irrelevant answers and most teams don't know until users complain. This project implements automated evaluation using RAGAS to catch quality issues before production with repeatable CI-integrated tests.
 
 `Python` · `RAGAS` · `LangChain` · `GitHub Actions`
