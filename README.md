@@ -17,7 +17,7 @@
 
 ## 🔧 Projects
 
-### [AI/ML Program Health Check Framework](link-to-repo)
+### [AI/ML Program Health Check Framework](https://github.com/rashmierande/ai-ml-program-health-check)
 Early-stage AI/ML startups often struggle with: "How do I know if my model is good enough?" This framework gives founders a structured way to define their quality bar, identify risks before they become blockers, and build evaluation loops without needing third-party annotators or large QA teams.
 
 `Python` · `LLM-as-Judge` · `Evaluation Frameworks`
